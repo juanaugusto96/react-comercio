@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "image": "img/nicasia-1.jpg",
+    "title": "vino nicasia",
+    "price": "29.99",
+    "category": "vinos"
+  },
+  {
+    "id": 2,
+    "image": "img/birra-01.png",
+    "title": "birra imperial",
+    "price": "39.99",
+    "category": "cervezas"
+  },
+  {
+    "id": 3,
+    "image": "img/bluelabel.jpeg",
+    "title": "jw blue label",
+    "price": "49.99",
+    "category": "whiskys"
+  }
+  ,
+  {
+    "id": 4,
+    "image": "img/birra-01.png",
+    "title": "imperial lager",
+    "price": "419.99",
+    "category": "cervezas"
+  }   ,
+  {
+    "id": 5,
+    "image": "img/birra-01.png",
+    "title": "fernet branca",
+    "price": "1419.99",
+    "category": "fernet"
+  }  ,
+  {
+    "id": 6,
+    "image": "img/blacklabel.jpeg",
+    "title": "jw black label",
+    "price": "819.99",
+    "category": "whiskys"
+  } ,
+  {
+    "id": 7,
+    "image": "img/redlabel.jpeg",
+    "title": "jw red label",
+    "price": "619.99",
+    "category": "whiskys"
+  },
+    {
+      "id": 8,
+      "image": "img/nicasia-1.jpg",
+      "title": "vino nicasia",
+      "price": "29.99",
+      "category": "vinos"
+    },
+    {
+      "id": 9,
+      "image": "img/birra-01.png",
+      "title": "birra imperial",
+      "price": "39.99",
+      "category": "cervezas"
+    },
+    {
+      "id": 10,
+      "image": "img/bluelabel.jpeg",
+      "title": "jw blue label",
+      "price": "49.99",
+      "category": "whiskys"
+    }
+    ,
+    {
+      "id": 11,
+      "image": "img/birra-01.png",
+      "title": "imperial lager",
+      "price": "419.99",
+      "category": "cervezas"
+    }   ,
+    {
+      "id": 12,
+      "image": "img/birra-01.png",
+      "title": "fernet branca",
+      "price": "1419.99",
+      "category": "fernet"
+    }  ,
+    {
+      "id": 13,
+      "image": "img/blacklabel.jpeg",
+      "title": "jw black label",
+      "price": "819.99",
+      "category": "whiskys"
+    } ,
+    {
+      "id": 14,
+      "image": "img/redlabel.jpeg",
+      "title": "jw red label",
+      "price": "619.99",
+      "category": "whiskys"
+    }
+  ]
+  
